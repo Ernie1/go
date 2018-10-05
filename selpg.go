@@ -108,7 +108,7 @@ func process_input() {
 			flag.Usage()
 			os.Exit(1)
 		}
-		cmd.Stdout = fout	//????
+		cmd.Stdout = fout
 		cmd.Start()
 	}
 
