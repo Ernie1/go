@@ -58,4 +58,6 @@ hello, world
 
 可以运行`go install`将二进制文件安装到工作区的`bin`目录中，或者使用`go clean-i`将其删除。
 
+&nbsp;  
+&nbsp;  
 要了解使用Go工具的基本概念，请阅读[如何编写go代码](https://golang.org/doc/code.html)。
