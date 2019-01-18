@@ -7,7 +7,7 @@ Go是一种开源编程语言，用来构建简单、可靠和高效的软件。
 
 - [源代码安装](https://golang.org/doc/install/source)
 
-- [安装gccgo](https://golang.org/doc/install/gccgo)。
+- [安装gccgo](https://golang.org/doc/install/gccgo)
 
 ## 安装Go工具
 如果要从旧版本的Go升级，必须先[删除现有版本](https://golang.org/doc/install#uninstall)。
